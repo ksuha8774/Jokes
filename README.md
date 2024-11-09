@@ -1,6 +1,10 @@
 
 <html lang="ru">
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>анекдоты.com</title>
     <script type="text/javascript" >
        (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
        m[i].l=1*new Date();
@@ -15,11 +19,6 @@
            });
     </script>
     <noscript><div><img src="https://mc.yandex.ru/watch/98848748" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles.css">
-    <title>анекдоты.com</title>
-    
     
 </head>
 <body>
